@@ -1,5 +1,5 @@
 import './App.css'
-import Contact from './components/contact'
+import Contact from './components/Contact'
 import Experience from './components/Experience'
 import Hero from './components/Hero'
 import Portfolio from './components/Portfolio'
