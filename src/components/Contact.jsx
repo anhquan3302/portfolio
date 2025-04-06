@@ -11,7 +11,7 @@ const Contact = () => {
           whileInView={{ opacity: 1, y: 0 }}
           initial={{ opacity: 1, y: -100 }}
           transition={{ duration: 0.5 }}
-          className='my-20 text-center text-5xl font-bold tracking-wide text-transparent bg-clip-text bg-gradient-to-r from-cyan-200 to-while drop-shadow-md'
+          className='my-20 text-center text-2xl font-bold tracking-wide text-transparent bg-clip-text bg-gradient-to-r from-cyan-200 to-while drop-shadow-md'
         >
           CONTACT
         </motion.h2>

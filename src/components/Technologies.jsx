@@ -40,7 +40,7 @@ const Technologies = () => {
                 whileInView={{ opacity: 1, y: 0 }}
                 initial={{ opacity: 0, y: -100 }}
                 transition={{ duration: 1.5 }}
-                className='my-20 text-center text-5xl font-bold tracking-wide text-transparent bg-clip-text bg-gradient-to-r from-cyan-200 to-while drop-shadow-md'
+                className='my-20 text-center text-3xl font-bold tracking-wide text-transparent bg-clip-text bg-gradient-to-r from-cyan-200 to-while drop-shadow-md'
             >
                 TECHNOLOGIES
             </motion.h2>
